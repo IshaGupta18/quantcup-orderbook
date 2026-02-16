@@ -2,7 +2,6 @@
 
 #include "limits.h"
 #include "constants.h"
-#include <boost/serialization/strong_typedef.hpp>
 #include <array>
 /* Order Id */
 
